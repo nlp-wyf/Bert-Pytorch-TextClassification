@@ -6,7 +6,7 @@
 
 # 数据集
 笔者自己搜集的论文数据集，读者可以去中国知网等论文网站自行搜集。    
-数据集放在Paper文件夹内    
+数据集放在Papers文件夹内    
 训练集为train.txt    
 验证集为dev.txt     
 测试集为test.txt     
@@ -21,7 +21,7 @@ vocab.txt
 本文因为pytorch_model.bin文件太大上传不了，所以只提供了后两个文件，具体文件请看介绍中大佬提供的文件  
 
 # 训练后模型存放地址
-需要再Paper文件夹内建一个子文件夹saved_dict，用来存放训练后的模型bert.ckpt
+需要再Papers文件夹内建一个子文件夹saved_dict，用来存放训练后的模型bert.ckpt
  
  # BERT论文
  BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding      
