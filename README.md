@@ -19,6 +19,9 @@ pytorch_model.bin
 bert_config.json    
 vocab.txt        
 本文因为pytorch_model.bin文件太大上传不了，所以只提供了后两个文件，具体文件请看介绍中大佬提供的文件  
+
+# 训练后模型存放地址
+需要再Paper文件夹内建一个子文件夹saved_dict，用来存放训练后的模型bert.ckpt
  
  # BERT论文
  BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding      
